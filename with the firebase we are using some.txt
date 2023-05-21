@@ -1,0 +1,1 @@
+with the firebase we are using some things called real time database that means somethings added or deleted , the application gone be tigger and the same time ,on the  application changes gone be made.  
